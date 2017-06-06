@@ -1,4 +1,4 @@
-# penalized-blockmodels
+# Data associated to the paper "A penalized inference approach to stochastic blockmodelling of community-structure in the Italian Parliament" by Signorelli and Wit (2017).
 
 This folder contains datasets and scripts associated to the paper
 
