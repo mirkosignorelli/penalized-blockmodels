@@ -1,8 +1,10 @@
-# Data associated to the paper "A penalized inference approach to stochastic block modelling of community-structure in the Italian Parliament" by Signorelli and Wit (JRSS-C, 2018).
+# A penalized inference approach to stochastic block modelling of community-structure in the Italian Parliament
 
-This folder contains datasets and scripts associated to the paper
+This folder contains R scripts related to the publication of Signorelli, M., Wit, E. C. (2018). A penalized inference approach to stochastic block modelling of community-structure in the Italian Parliament. *Journal of the Royal Statistical Society: Series C (Applied Statistics)*, 67 (2), 355-369. 
+You can read the paper (with open access) here: https://journals.sagepub.com/doi/full/10.1177/1471082X19871128
 
-Signorelli, M., Wit, E. C. (2018). A penalized inference approach to stochastic block modelling of community-structure in the Italian Parliament. Journal of the Royal Statistical Society: Series C (Applied Statistics), 67 (2), 355-369. DOI: 10.1111/rssc.12234
+# About this repository
+This repository contains the data and code to reproduce the simulations and data analyses presented in Signorelli and Wit (2018).
 
 The material is divided into two folders: 'data_analysis' and 'simulations'.
 
